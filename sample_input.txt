@@ -1,0 +1,1 @@
+Natural Language Processing (NLP) enables computational systems to analyze and interpret human language. Machine Learning (ML) algorithms can identify patterns in large datasets. APIs allow software applications to communicate with external services.

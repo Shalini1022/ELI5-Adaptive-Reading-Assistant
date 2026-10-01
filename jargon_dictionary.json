@@ -1,0 +1,114 @@
+{
+  "NLP": {
+    "full_form": "Natural Language Processing",
+    "simple": "teaching computers to work with human language"
+  },
+  "API": {
+    "full_form": "Application Programming Interface",
+    "simple": "a way for software programs to communicate"
+  },
+  "APIs": {
+    "full_form": "Application Programming Interfaces",
+    "simple": "ways for software programs to communicate"
+  },
+  "LLM": {
+    "full_form": "Large Language Model",
+    "simple": "an AI model that can understand and generate text"
+  },
+  "RAG": {
+    "full_form": "Retrieval Augmented Generation",
+    "simple": "a method where AI retrieves information before generating an answer"
+  },
+  "ML": {
+    "full_form": "Machine Learning",
+    "simple": "teaching computers to learn patterns from data"
+  },
+  "AI": {
+    "full_form": "Artificial Intelligence",
+    "simple": "computer systems performing tasks that usually need human intelligence"
+  },
+  "CPU": {
+    "full_form": "Central Processing Unit",
+    "simple": "the main processor that executes computer instructions"
+  },
+  "GPU": {
+    "full_form": "Graphics Processing Unit",
+    "simple": "a processor designed to perform many calculations in parallel"
+  },
+  "OCR": {
+    "full_form": "Optical Character Recognition",
+    "simple": "turning text in an image into editable computer text"
+  },
+  "SQL": {
+    "full_form": "Structured Query Language",
+    "simple": "a language used to work with databases"
+  },
+  "HTTP": {
+    "full_form": "Hypertext Transfer Protocol",
+    "simple": "a set of rules used to transfer information on the web"
+  },
+  "URL": {
+    "full_form": "Uniform Resource Locator",
+    "simple": "a web address"
+  },
+  "JSON": {
+    "full_form": "JavaScript Object Notation",
+    "simple": "a common text format for storing and exchanging data"
+  },
+  "NLP model": {
+    "full_form": "Natural Language Processing model",
+    "simple": "a computer model that works with human language"
+  },
+  "algorithm": {
+    "full_form": "Algorithm",
+    "simple": "a step-by-step method for solving a problem"
+  },
+  "dataset": {
+    "full_form": "Dataset",
+    "simple": "a collection of data"
+  },
+  "datasets": {
+    "full_form": "Datasets",
+    "simple": "collections of data"
+  },
+  "embedding": {
+    "full_form": "Embedding",
+    "simple": "a numerical representation of meaning"
+  },
+  "embeddings": {
+    "full_form": "Embeddings",
+    "simple": "numerical representations of meaning"
+  },
+  "semantic search": {
+    "full_form": "Semantic Search",
+    "simple": "searching based on meaning instead of only exact words"
+  },
+  "fine-tuning": {
+    "full_form": "Fine-tuning",
+    "simple": "training an existing model further for a specific task"
+  },
+  "tokenization": {
+    "full_form": "Tokenization",
+    "simple": "breaking text into smaller pieces that a model can process"
+  },
+  "classification": {
+    "full_form": "Classification",
+    "simple": "putting something into a category"
+  },
+  "regression": {
+    "full_form": "Regression",
+    "simple": "predicting a numerical value"
+  },
+  "inference": {
+    "full_form": "Inference",
+    "simple": "using a trained model to produce an output"
+  },
+  "transformer": {
+    "full_form": "Transformer",
+    "simple": "a neural network architecture that is very effective for language tasks"
+  },
+  "sequence-to-sequence": {
+    "full_form": "Sequence-to-sequence",
+    "simple": "a model design that turns one sequence of text into another"
+  }
+}
